@@ -44,7 +44,8 @@ int main (){
 
     case 7:
     cout<<"domingo"<<endl;
-    break;}
+    break;
+}
 
     return 0;
 }
